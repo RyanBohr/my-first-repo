@@ -1,1 +1,3 @@
-**This is my first repo**
+**This is my favorite repo**
+
+A description of my project
